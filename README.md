@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://www.linkpicture.com/q/python.gif" height="175px"/></a>
 
-<h3 align="center">Heyoo, I'm Rajat Nagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+<h3 align="center">Heyoo, I'm Rajat Nagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">&nbsp;&nbsp;
 
 
 
