@@ -27,7 +27,7 @@
 </p>
 
 <p align='center'>
-  Do you like my work? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+  Like my work? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
 <!-- <details align='center'>
